@@ -1,5 +1,3 @@
-.. image:: https://travis-ci.org/MacHu-GWU/crosys-project.svg?branch=master
-
 .. image:: https://img.shields.io/pypi/v/crosys.svg
 
 .. image:: https://img.shields.io/pypi/l/crosys.svg
@@ -9,17 +7,14 @@
 
 Welcome to crosys Documentation
 ========================================
-This is just a example project for demonstration purpose.
+Like `six <https://pypi.python.org/pypi/six>`_ is for python2/3 compatibility, crosys (cross system) is for Windows/MacOS/Linux Compatibility.
 
 
 **Quick Links**
 -------------------------------------------------------------------------------
 - `GitHub Homepage <https://github.com/MacHu-GWU/crosys-project>`_
-- `Online Documentation <http://pythonhosted.org/crosys>`_
 - `PyPI download <https://pypi.python.org/pypi/crosys>`_
 - `Install <install_>`_
-- `Issue submit and feature request <https://github.com/MacHu-GWU/crosys-project/issues>`_
-- `API reference and source code <http://pythonhosted.org/crosys/py-modindex.html>`_
 
 
 .. _install:
