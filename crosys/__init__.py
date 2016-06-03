@@ -8,7 +8,7 @@ import site
 import os
 
 __version__ = "0.0.1"
-__short_description = "Cross Operation System Compatible Library."
+__short_description__ = "Cross Operation System Compatible Library."
 __license__ = "MIT"
 __author__ = "Sanhe Hu"
 

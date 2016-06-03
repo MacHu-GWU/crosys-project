@@ -33,3 +33,22 @@ To upgrade to latest version:
 .. code-block:: console
 
 	$ pip install --upgrade crosys
+
+
+Usage
+-------------------------------------------------------------------------------
+.. code-block:: python
+
+	>>> import crosys
+	>>> corsys.WINDOWS
+	True
+	>>> crosys.MACOS
+	False
+	>>> crosys.LINUX
+	False
+	>>> crosys.SP_PATH # site-packages path
+	C:\Python34\lib\site-packages
+	>>> crosys.PROGRAM_FILES_64
+	C:\Program Files
+	>>> crosys.PROGRAM_FILES_32
+	C:\Program Files (x86)
